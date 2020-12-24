@@ -1,0 +1,28 @@
+h1{
+    color: blueviolet;
+}
+h2{
+    color: #882237;
+    text-align: center;
+    background: lightgray;
+}
+.f_table{
+    border: blueviolet;
+    border-style: dashed;
+    
+}
+td{
+    border:brown;
+    border-style:inset;
+}
+
+button{
+    color: magenta;
+
+}
+
+p{
+    color: olive;
+    background-color: lightgoldenrodyellow;
+}
+
