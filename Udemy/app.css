@@ -4,7 +4,7 @@ h1{
     text-decoration: underline;
     letter-spacing: 20px;
     font-family: monospace;
-    font-weight: 2200;
+    font-weight: 100;
   
 }
 h2{
@@ -42,5 +42,9 @@ p{
 a{
     text-decoration: none;
     color:lightgray;
+}
+
+p a:hover{
+    color: red;
 }
 
