@@ -1,11 +1,19 @@
 h1{
     color: blueviolet;
+    text-align: center;
+    text-decoration: underline;
+    letter-spacing: 20px;
+    font-family: monospace;
+    font-weight: 2200;
+  
 }
 h2{
     color: #882237;
     text-align: center;
     background: lightgray;
+    text-decoration: line-through;
 }
+
 .f_table{
     border: blueviolet;
     border-style: dashed;
@@ -14,15 +22,25 @@ h2{
 td{
     border:brown;
     border-style:inset;
+    
 }
 
 button{
     color: magenta;
+    text-decoration: underline wavy;
+
 
 }
 
 p{
     color: olive;
     background-color: lightgoldenrodyellow;
+    line-height: 2.5;
+    text-align: center; 
+}
+
+a{
+    text-decoration: none;
+    color:lightgray;
 }
 
