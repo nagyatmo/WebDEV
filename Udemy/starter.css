@@ -19,6 +19,8 @@ main div{
     box-shadow: 2px 2px 2px 2px black;
     border-radius: 25px;
     margin: 10px;
+    width: 70%;
+padding: 1px;
 }
 main div:hover{
     background-color: #dda585;
